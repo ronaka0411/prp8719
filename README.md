@@ -1,4 +1,4 @@
-# prp8719
+# prp8719 (prp aka programming project)
 Kleinberg’s HITS Algorithm and Google’s PageRank algorithm in Java
 
 
